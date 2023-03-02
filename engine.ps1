@@ -1,5 +1,4 @@
 # Autor: LetsBash.de / SirBash.com
-# Based on https://www.youtube.com/watch?v=FAn4q_55_mI
 
 function retriveLatestSavegame {
     $lastestpath = $false;
