@@ -1,6 +1,6 @@
-# Sons of the forest NPC virginia  and Kelvin Spawner
-- English: A small script written in Powershell for easy insert more Kelvin or/and Viriginia in your savegame
-- German: Ein kleines, in Powershell geschriebenes Skript zur einfachen vervielfältigung von Kelvin oder/und Viriginia
+# Sons of the forest NPC Virginia and Kelvin Spawner
+- English: A small script written in Powershell for easy insert more Kelvin or/and Virginia in your savegame
+- German: Ein kleines, in Powershell geschriebenes Skript zur einfachen vervielfältigung von Kelvin oder/und Virginia
 
 # Support & Feedback
 - English: If you like the tool or have feedback, you can join my Discord at https://sirbash.com.
