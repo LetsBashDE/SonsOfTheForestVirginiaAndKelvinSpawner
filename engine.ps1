@@ -178,8 +178,6 @@ function writeSavegame {
         return $false
     }
 
-    $content
-
     $Utf8NoBomEncoding = New-Object System.Text.UTF8Encoding $False
     [System.IO.File]::WriteAllLines($filepath, $content, $Utf8NoBomEncoding)
     return $true
@@ -188,4 +186,3 @@ function writeSavegame {
 $lastestpath = retriveLatestSavegame
 $result      = weAreManyNPCs $lastestpath
 $result
-#$result = reviveAll $lastestpath
