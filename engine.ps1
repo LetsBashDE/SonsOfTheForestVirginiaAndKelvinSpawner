@@ -1,8 +1,8 @@
 # Autor: LetsBash.de / SirBash.com
 
 function retriveLatestSavegame {
-    $lastestpath = $false;
-    $lastesttime = $false;
+    $lastestpath = $false
+    $lastesttime = $false
     $savepath = ($ENV:LOCALAPPDATA + "low\Endnight\SonsOfTheForest\Saves\")
     $steamidfolders = Get-ChildItem -path $savepath
     foreach ($steamidfolder in $steamidfolders) {
@@ -22,7 +22,7 @@ function retriveLatestSavegame {
                     $lastestpath = $savegamefolder.fullname
                 }
     
-                if ($lastesttime -gt $lastesttime) {
+                if ($modifiedtime -gt $lastesttime) {
                     $lastesttime = $modifiedtime
                     $lastestpath = $savegamefolder.fullname
                 }
