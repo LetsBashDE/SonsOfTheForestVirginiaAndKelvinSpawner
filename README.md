@@ -49,3 +49,7 @@
 - Warten Sie, bis das Skript ausgeführt wurde und auf dem Bildschirm die Meldung "savegame modified" erscheint.
 - Öffnen Sie Sons of the Forest erneut und laden Sie das zuletzt gespeicherte Spiel.
 - Gehe zum Strand
+
+# UPDATE
+- English: If you want to use this script at the forest spawn then just rename "engine.ps1" to "engine-strand.ps1" and "engine-forest.ps1" to "engine.ps1".
+- German: Wenn Sie dieses Skript beim Wald-Spawn verwenden möchten, benennen Sie einfach "engine.ps1" in "engine-strand.ps1" und "engine-forest.ps1" in "engine.ps1" um.
