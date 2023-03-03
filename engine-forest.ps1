@@ -22,7 +22,7 @@ function retriveLatestSavegame {
                     $lastestpath = $savegamefolder.fullname
                 }
     
-                if ($lastesttime -gt $lastesttime) {
+                if ($modifiedtime -gt $lastesttime) {
                     $lastesttime = $modifiedtime
                     $lastestpath = $savegamefolder.fullname
                 }
