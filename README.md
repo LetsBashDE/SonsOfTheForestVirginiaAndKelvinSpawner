@@ -1,4 +1,4 @@
-# Sons of the forest NPC Virigina and Kelvin Spawner
+# Sons of the forest NPC virginia  and Kelvin Spawner
 - English: A small script written in Powershell for easy insert more Kelvin or/and Viriginia in your savegame
 - German: Ein kleines, in Powershell geschriebenes Skript zur einfachen vervielfältigung von Kelvin oder/und Viriginia
 
