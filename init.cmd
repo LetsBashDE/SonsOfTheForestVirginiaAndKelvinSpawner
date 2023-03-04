@@ -1,7 +1,7 @@
 @echo off
-title SirBash.com LetsBash.de Sons of the forest NPC reviver
+title SirBash.com LetsBash.de Sons of the forest NPC spawner
 echo.
-echo SirBash.com LetsBash.de Sons of the forest NPC reviver
+echo SirBash.com LetsBash.de Sons of the forest NPC spawner
 echo ======================================================
 echo.
 powershell.exe -executionpolicy bypass -nologo -noprofile -file "engine.ps1"
